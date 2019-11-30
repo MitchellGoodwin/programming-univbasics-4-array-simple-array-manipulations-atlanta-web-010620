@@ -26,3 +26,7 @@ def shift_with_args(array)
   array
 end
 
+def using_cancat(array1, array2)
+  array.pop 
+  array
+end
